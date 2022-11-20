@@ -3,4 +3,4 @@ project(ClionGitTest)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(ClionGitTest main.cpp)
+add_executable(ClionGitTest main.cpp subfunc.cpp subfunc.h)
